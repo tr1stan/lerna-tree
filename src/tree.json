@@ -1,0 +1,472 @@
+{
+  "acuris-react-arrow-box": {
+    "location": "packages/acuris-react-arrow-box",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-button": {
+    "location": "packages/acuris-react-button",
+    "workspaceDependencies": ["acuris-react-styles"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-checkbox": {
+    "location": "packages/acuris-react-checkbox",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-content-toggle": {
+    "location": "packages/acuris-react-content-toggle",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-display-on-breakpoint": {
+    "location": "packages/acuris-react-display-on-breakpoint",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-export-file": {
+    "location": "packages/acuris-react-export-file",
+    "workspaceDependencies": [
+      "acuris-react-button",
+      "acuris-react-modal",
+      "acuris-react-radio"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-export-items": {
+    "location": "packages/acuris-react-export-items",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-icon",
+      "acuris-react-notification-progress-banner"
+    ],
+    "mismatchedWorkspaceDependencies": ["acuris-react-button"]
+  },
+  "acuris-react-filters": {
+    "location": "packages/acuris-react-filters",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-multiselector"
+    ],
+    "mismatchedWorkspaceDependencies": ["acuris-react-icon"]
+  },
+  "acuris-react-focus-context": {
+    "location": "packages/acuris-react-focus-context",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-footer": {
+    "location": "packages/acuris-react-footer",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-form": {
+    "location": "packages/acuris-react-form",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-icon"
+    ],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-checkbox",
+      "acuris-react-radio"
+    ]
+  },
+  "acuris-react-frontend-utils": {
+    "location": "packages/acuris-react-frontend-utils",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-header": {
+    "location": "packages/acuris-react-header",
+    "workspaceDependencies": [
+      "debtwire-react-logo",
+      "acuris-react-display-on-breakpoint"
+    ],
+    "mismatchedWorkspaceDependencies": ["acuris-react-icon"]
+  },
+  "acuris-react-icon": {
+    "location": "packages/acuris-react-icon",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-link-button": {
+    "location": "packages/acuris-react-link-button",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-loader-indicator": {
+    "location": "packages/acuris-react-loader-indicator",
+    "workspaceDependencies": ["acuris-react-styles"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-logo": {
+    "location": "packages/acuris-react-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": ["acuris-react-header"]
+  },
+  "acuris-react-modal": {
+    "location": "packages/acuris-react-modal",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-icon",
+      "acuris-react-overlay",
+      "acuris-react-styles"
+    ],
+    "mismatchedWorkspaceDependencies": ["acuris-react-button"]
+  },
+  "acuris-react-multiselector": {
+    "location": "packages/acuris-react-multiselector",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-notification-pop-up": {
+    "location": "packages/acuris-react-notification-pop-up",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-icon"
+    ],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-button",
+      "acuris-react-universal-card"
+    ]
+  },
+  "acuris-react-notification-progress-banner": {
+    "location": "packages/acuris-react-notification-progress-banner",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": ["acuris-react-button"]
+  },
+  "acuris-react-over-loader": {
+    "location": "packages/acuris-react-over-loader",
+    "workspaceDependencies": [
+      "acuris-react-loader-indicator",
+      "acuris-react-overlay"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-overlay": {
+    "location": "packages/acuris-react-overlay",
+    "workspaceDependencies": ["acuris-react-styles"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-promoted-content": {
+    "location": "packages/acuris-react-promoted-content",
+    "workspaceDependencies": ["acuris-react-proprietary-icon"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-promotional-content": {
+    "location": "packages/acuris-react-promotional-content",
+    "workspaceDependencies": [
+      "acuris-react-checkbox",
+      "acuris-react-radio",
+      "acuris-react-icon",
+      "acuris-react-link-button"
+    ],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-form",
+      "acuris-react-button",
+      "acuris-react-styles"
+    ]
+  },
+  "acuris-react-proprietary-icon": {
+    "location": "packages/acuris-react-proprietary-icon",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-radio": {
+    "location": "packages/acuris-react-radio",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-saved-searches": {
+    "location": "packages/acuris-react-saved-searches",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-icon"
+    ],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-button",
+      "acuris-react-form",
+      "acuris-react-modal"
+    ]
+  },
+  "acuris-react-search": {
+    "location": "packages/acuris-react-search",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-icon"
+    ],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-button",
+      "acuris-react-modal",
+      "acuris-react-styles"
+    ]
+  },
+  "acuris-react-section-header": {
+    "location": "packages/acuris-react-section-header",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "acuris-react-universal-card"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-select-all-intel-tools": {
+    "location": "packages/acuris-react-select-all-intel-tools",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-button",
+      "acuris-react-checkbox"
+    ]
+  },
+  "acuris-react-select-all": {
+    "location": "packages/acuris-react-select-all",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": ["acuris-react-checkbox"]
+  },
+  "acuris-react-select-multiple-button": {
+    "location": "packages/acuris-react-select-multiple-button",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": ["acuris-react-button"]
+  },
+  "acuris-react-selected-intels-toolbar": {
+    "location": "packages/acuris-react-selected-intels-toolbar",
+    "workspaceDependencies": ["acuris-react-icon", "acuris-react-link-button"],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-checkbox",
+      "acuris-react-button"
+    ]
+  },
+  "acuris-react-situation-label": {
+    "location": "packages/acuris-react-situation-label",
+    "workspaceDependencies": ["acuris-react-styles"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-styles": {
+    "location": "packages/acuris-react-styles",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-tabs": {
+    "location": "packages/acuris-react-tabs",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "acuris-react-universal-card": {
+    "location": "packages/acuris-react-universal-card",
+    "workspaceDependencies": [
+      "acuris-react-checkbox",
+      "acuris-react-frontend-utils",
+      "acuris-react-situation-label"
+    ],
+    "mismatchedWorkspaceDependencies": ["acuris-react-proprietary-icon"]
+  },
+  "acuris-react-user-menu": {
+    "location": "packages/acuris-react-user-menu",
+    "workspaceDependencies": [
+      "acuris-react-header",
+      "acuris-react-section-header",
+      "acuris-react-styles",
+      "acuris-react-icon",
+      "acuris-react-arrow-box"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-accordion-select": {
+    "location": "packages/cmp-react-accordion-select",
+    "workspaceDependencies": ["acuris-react-checkbox"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-editors": {
+    "location": "packages/cmp-react-editors",
+    "workspaceDependencies": ["cmp-react-select"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-entity-select": {
+    "location": "packages/cmp-react-entity-select",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-filter-panel": {
+    "location": "packages/cmp-react-filter-panel",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": ["cmp-react-accordion-select"]
+  },
+  "cmp-react-filter-result-notification": {
+    "location": "packages/cmp-react-filter-result-notification",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": ["cmp-react-accordion-select"]
+  },
+  "cmp-react-internal-notes": {
+    "location": "packages/cmp-react-internal-notes",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-select": {
+    "location": "packages/cmp-react-select",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-source-notes": {
+    "location": "packages/cmp-react-source-notes",
+    "workspaceDependencies": ["cmp-react-select"],
+    "mismatchedWorkspaceDependencies": ["acuris-react-styles"]
+  },
+  "cmp-react-status-log": {
+    "location": "packages/cmp-react-status-log",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-tag-control": {
+    "location": "packages/cmp-react-tag-control",
+    "workspaceDependencies": ["cmp-react-select"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-toggle-features": {
+    "location": "packages/cmp-react-toggle-features",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "cmp-react-universal-header": {
+    "location": "packages/cmp-react-universal-header",
+    "workspaceDependencies": ["acuris-react-logo"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "dealreporter-react-footer": {
+    "location": "packages/dealreporter-react-footer",
+    "workspaceDependencies": ["acuris-react-footer"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "dealreporter-react-header": {
+    "location": "packages/dealreporter-react-header",
+    "workspaceDependencies": [
+      "acuris-react-header",
+      "acuris-react-icon",
+      "acuris-react-logo"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "dealreporter-react-logo": {
+    "location": "packages/dealreporter-react-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "dealreporter-react-notification-pop-up": {
+    "location": "packages/dealreporter-react-notification-pop-up",
+    "workspaceDependencies": [
+      "acuris-react-frontend-utils",
+      "dealreporter-react-logo"
+    ],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-button",
+      "acuris-react-universal-card"
+    ]
+  },
+  "debtwire-react-footer": {
+    "location": "packages/debtwire-react-footer",
+    "workspaceDependencies": ["acuris-react-footer"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-header": {
+    "location": "packages/debtwire-react-header",
+    "workspaceDependencies": [
+      "acuris-react-display-on-breakpoint",
+      "acuris-react-header",
+      "debtwire-react-logo"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-icon-button": {
+    "location": "packages/debtwire-react-icon-button",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-logo": {
+    "location": "packages/debtwire-react-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-proprietary-logo": {
+    "location": "packages/debtwire-react-proprietary-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-results-display-count": {
+    "location": "packages/debtwire-react-results-display-count",
+    "workspaceDependencies": ["acuris-react-frontend-utils"],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-search-link": {
+    "location": "packages/debtwire-react-search-link",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "debtwire-react-universal-card": {
+    "location": "packages/debtwire-react-universal-card",
+    "workspaceDependencies": ["debtwire-react-search-link"],
+    "mismatchedWorkspaceDependencies": ["acuris-react-universal-card"]
+  },
+  "debtwire-react-watchlist-definitions": {
+    "location": "packages/debtwire-react-watchlist-definitions",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "mergermarket-react-logo": {
+    "location": "packages/mergermarket-react-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "parr-react-footer": {
+    "location": "packages/parr-react-footer",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": ["acuris-react-footer"]
+  },
+  "parr-react-header": {
+    "location": "packages/parr-react-header",
+    "workspaceDependencies": [
+      "acuris-react-header",
+      "parr-react-logo",
+      "parr-react-search-menu",
+      "parr-react-user-menu"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "parr-react-logo": {
+    "location": "packages/parr-react-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "parr-react-proprietary-logo": {
+    "location": "packages/parr-react-proprietary-logo",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "parr-react-search-menu": {
+    "location": "packages/parr-react-search-menu",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": [
+      "acuris-react-display-on-breakpoint",
+      "acuris-react-icon",
+      "acuris-react-proprietary-icon",
+      "acuris-react-universal-card"
+    ]
+  },
+  "parr-react-user-menu": {
+    "location": "packages/parr-react-user-menu",
+    "workspaceDependencies": [],
+    "mismatchedWorkspaceDependencies": ["acuris-react-header"]
+  },
+  "wealthmonitor-react-header": {
+    "location": "packages/wealthmonitor-react-header",
+    "workspaceDependencies": [
+      "acuris-react-header",
+      "acuris-react-icon",
+      "acuris-react-logo",
+      "wealthmonitor-react-search-menu"
+    ],
+    "mismatchedWorkspaceDependencies": []
+  },
+  "wealthmonitor-react-search-menu": {
+    "location": "packages/wealthmonitor-react-search-menu",
+    "workspaceDependencies": ["acuris-react-icon"],
+    "mismatchedWorkspaceDependencies": ["acuris-react-button"]
+  }
+}
